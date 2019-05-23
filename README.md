@@ -1,7 +1,7 @@
 Fonte:
 [https://github.com/GoogleCloudPlatform/endpoints-quickstart]
 
-# Como executar
+# Como executar:
 ```
 $ docker run --name airportnames -p 8080:8080 rmerces/airportnames
 ```
